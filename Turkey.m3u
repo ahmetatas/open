@@ -129,14 +129,10 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" ,TRT HABER HD
+http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/1?checkedby:iptvcat.com
 #EXTINF:0 ,TRT HABER SD
 http://195.155.98.170:5858/play/a09k?checkedby:iptvcat.com
-#EXTINF:0 ,TRT HABER HD
-http://195.155.98.170:5858/play/a09d?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" ,TRT Haber
-http://84.22.33.214/TRTHaber/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,TRT HABER HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/1?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/tvnet-logo.jpg.webp" ,TVNET HD
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/579dbf0e-ec89-4e4a-893a-2cae982a8b99.png" ,Akıllı TV
