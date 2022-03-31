@@ -1,4 +1,4 @@
-﻿# EXTM3U url-tvg="https://epg.it999.ru/epg.xml.gz"
+﻿#EXTM3U url-tvg="https://epg.it999.ru/epg.xml.gz"
 #EXTINF:0 tvg-name="SHOW TV [HD]" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/show-tv-logo.png.webp" ,SHOW TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-name="SHOW TURK HD" ,SHOW TURK
