@@ -1,7 +1,7 @@
-﻿#EXTM3U url-tvg="https://epg.it999.ru/epg.xml.gz"
-#EXTINF:0 tvg-name="SHOW TV [HD]" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/show-tv-logo.png.webp" ,SHOW TV
+﻿﻿#EXTM3U url-tvg="https://epg.it999.ru/epg.xml.gz"
+#EXTINF:0 tvg-name="SHOW TV HD" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/show-tv-logo.png.webp" ,Show TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-name="SHOW TURK HD" ,SHOW TURK
+#EXTINF:0 tvg-name="SHOW TURK HD" ,Show Turk TR
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-name="Show Türk" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" ,SHOW TURK
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
