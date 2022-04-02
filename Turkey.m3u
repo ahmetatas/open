@@ -11,7 +11,7 @@ http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8?checkedby:iptvcat.co
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" ,ATV
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/m7QHWe17F1zclFk71k4mOjt9Kjilw7qxF0bXfrnq.png.webp" ,Kanal D
+#EXTINF:0 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/m7QHWe17F1zclFk71k4mOjt9Kjilw7qxF0bXfrnq.png.webp" ,KANAL D HD
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0 ,EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8?checkedby:iptvcat.com
@@ -27,45 +27,45 @@ http://195.155.98.170:5858/play/a09z?checkedby:iptvcat.com
 http://195.155.98.170:5858/play/a09w?checkedby:iptvcat.com
 #EXTINF:-1 ,STAR TV
 https://stream-11.ix7.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrX7pQIJWH2w4GiI8eZ3AYuU)/dm/3/x729whv/s/live-3.m3u8#cell=lcore
-#EXTINF:0 ,EURO STAR
+#EXTINF:0 ,EUROSTAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" ,EURO STAR
+#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" ,EUROSTAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/tlc-logo-768x398.png.webp" ,TLC HD
+#EXTINF:0 tvg-id="TLC.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/tlc-logo-768x398.png.webp" ,TLC HD
 https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,TLC HD
+#EXTINF:0 tvg-id="TLC.tr" ,TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,TLC
-http://195.155.98.170:5858/play/a0a6?checkedby:iptvcat.com
-#EXTINF:0 ,TLC HD
+#EXTINF:0 tvg-id="TLC.tr" ,TLC HD
 http://195.155.98.170:5858/play/a0a5?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TLC.tr" ,TLC
+http://195.155.98.170:5858/play/a0a6?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/dmaxlogo-768x317.jpg.webp" ,D MAX HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,D MAX HD
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,DMAX HD
 http://195.155.98.170:5858/play/a0a4?checkedby:iptvcat.com
-#EXTINF:0 ,DMAX SD
+#EXTINF:0 ,DMAX
 http://195.155.98.170:5858/play/a09y?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" ,TRT1 HD
+http://195.155.98.170:5858/play/a09c?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/trt-1.png.webp" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" ,TRT1 HD
-http://195.155.98.170:5858/play/a09c?checkedby:iptvcat.com
 #EXTINF:0 ,TRT 1
 http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/2e8f5526-766a-4e93-a11f-af8bc0455689.png" ,TRT 1
 https://blutv-test-live.ercdn.net/test/trt1_1080p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/teve-2-2.png.webp" ,TEVE2 HD
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/teve-2-2.png.webp" ,teve2 HD
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" ,TEVE2 HD
+#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" ,teve2 HD
 https://mn-nl.mncdn.com/blutv_teve22/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" ,TEVE2
+#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/bf00b7e4-21dc-42d1-812f-bc59bf67c67e.png" ,teve2
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d584de30-a47d-4d88-a0bd-799768598b34.png" ,blutv Aksiyon
 https://mn-nl.mncdn.com/blutv_aksiyon/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" ,360 TV
+#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/3779a336-8033-4745-af5a-356ef10a2a36.png" ,360 HD
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -79,25 +79,25 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8?checkedby:iptvcat.com
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/2585?checkedby:iptvcat.com
 #EXTINF:0 ,FOX TV FHD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/187760?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/306fa662-2e64-46f9-a1a9-03953cb4e15b.png" ,NTV
+#EXTINF:0 tvg-id="ntv.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/306fa662-2e64-46f9-a1a9-03953cb4e15b.png" ,NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,NTV
+#EXTINF:0 tvg-id="ntv.tr" ,NTV
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,NTV
+#EXTINF:0 tvg-id="ntv.tr" ,NTV
 http://195.155.98.170:5858/play/a09x?checkedby:iptvcat.com
-#EXTINF:0 ,NTV HD
+#EXTINF:0 tvg-id="ntv.tr" ,NTV HD
 http://195.155.98.170:5858/play/a0a0?checkedby:iptvcat.com
-#EXTINF:0 ,NTV HD
+#EXTINF:0 tvg-id="ntv.tr" ,NTV HD
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,NTV HD
+#EXTINF:0 tvg-id="ntv.tr" ,NTV HD
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cfaf8ef9-70b3-4524-bb96-ff4a817e8c78.png" ,CNN TÜRK HD
+#EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cfaf8ef9-70b3-4524-bb96-ff4a817e8c78.png" ,CNN TURK HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cfaf8ef9-70b3-4524-bb96-ff4a817e8c78.png" ,CNN TÜRK HD
+#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/cfaf8ef9-70b3-4524-bb96-ff4a817e8c78.png" ,CNN TURK HD
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/haberturk-logo.png.webp" ,HABERTURK HD
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,HABERTURK HD
+#EXTINF:0 ,HABERTÜRK HD
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://i.ibb.co/2v2W5g1/24.png" ,24 HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?checkedby:iptvcat.com
