@@ -31,9 +31,9 @@ https://stream-11.ix7.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrX7pQIJWH2w4GiI8eZ
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" ,EUROSTAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TLC.tr" tvg-name="TLC HD TR" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/tlc-logo-768x398.png.webp" ,TLC HD
+#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/tlc-logo-768x398.png.webp" ,TLC HD
 https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TLC.tr" tvg-name="TLC HD TR" ,TLC HD
+#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" ,TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TLC.tr" tvg-name="TLC HD TR" ,TLC HD
 http://195.155.98.170:5858/play/a0a5?checkedby:iptvcat.com
@@ -41,9 +41,9 @@ http://195.155.98.170:5858/play/a0a5?checkedby:iptvcat.com
 http://195.155.98.170:5858/play/a0a6?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="DMAX.tr" tvg-name="DMAX HD TR" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/dmaxlogo-768x317.jpg.webp" ,DMAX HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DMAX.tr" tvg-name="DMAX HD TR" ,DMAX HD
+#EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" ,DMAX HD
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DMAX.tr" tvg-name="DMAX HD TR" ,DMAX HD
+#EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" ,DMAX HD
 http://195.155.98.170:5858/play/a0a4?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="DMAX.tr" tvg-name="DMAX TR" ,DMAX SD
 http://195.155.98.170:5858/play/a09y?checkedby:iptvcat.com
@@ -75,9 +75,9 @@ https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8?checkedby
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="BEYAZTV.tr" ,BEYAZ TV HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Fox.tr" tvg-name="Fox TV TR" ,FOX TV HD
+#EXTINF:0 tvg-id="FoxTurkey.us" tvg-name="Fox Türkiye" ,FOX TV HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/2585?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Fox.tr" tvg-name="Fox TV FHD TR" ,FOX TV FHD
+#EXTINF:0 tvg-id="FoxTurkey.us" tvg-name="Fox Türkiye" ,FOX TV FHD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/187760?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/306fa662-2e64-46f9-a1a9-03953cb4e15b.png" ,NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8?checkedby:iptvcat.com
@@ -131,7 +131,7 @@ https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8?checkedby:iptvcat.com
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TRTHaberHD.tr" tvg-name="TRT HABER HD TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" ,TRT HABER HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/1?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TRTHaberHD.tr" ,TRT HABER
+#EXTINF:0 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" ,TRT HABER
 http://195.155.98.170:5858/play/a09k?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/tvnet-logo.jpg.webp" ,TVNET HD
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8?checkedby:iptvcat.com
@@ -225,13 +225,13 @@ http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNUJVVXLwQ8NwO1Op9T4jQM?c
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/138595?checkedby:iptvcat.com
 #EXTINF:0 ,SLTV PREMIUM HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/133813?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TRTBelgeselHD.tr" tvg-name="TRT Belgesel TR" ,TRT BELGESEL HD
+#EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" ,TRT BELGESEL HD
 https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TRTBelgeselHD.tr" tvg-logo="https://i.ibb.co/YyXRfXw/trtbelgesel.png" ,TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="TRTBelgeselHD.tr" ,TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRTBelgeselHD.tr" ,TRT BELGESEL FHD
+#EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" ,TRT BELGESEL FHD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/128286?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ad58bbd-0cf3-4fdb-9af7-16704b101eab.png" ,blutv Belgesel
 https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index_3.m3u8?checkedby:iptvcat.com
@@ -427,7 +427,7 @@ https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8?checkedby:ip
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/13879?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Docubox.tr" ,DOCUBOX HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/350386?checkedby:iptvcat.com
-#EXTINF:0 tvg-name="Galatasaray TV TR" ,GS TV HD
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" tvg-name="Galatasaray TV TR" ,GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b496000_sltur.m3u8
 #EXTINF:0 ,EXXEN SPORT 1 FHD (Mac Zamani)
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/371283?checkedby:iptvcat.com
