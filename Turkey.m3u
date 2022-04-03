@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:0 tvg-id="ShowTV.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/show-tv-logo.png.webp" ,SHOW TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,Show Turk TR
+#EXTINF:0 tvg-name="Show Turk TR" ,SHOW TURK HD
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" ,Show Turk TR
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
@@ -138,7 +138,7 @@ https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="AkilliTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/579dbf0e-ec89-4e4a-893a-2cae982a8b99.png" ,Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="A2.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dca19bc0-70f5-4bd5-9132-ae7cf4c26867.png" ,A2
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/13902?checkedby:iptvcat.com
+http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/63159?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="a2tv.tr" tvg-name="A2 FHD" ,A2
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/128278?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://i.ibb.co/HXMLHcS/lalegul.jpg" ,LALEGÜL TV
@@ -163,8 +163,8 @@ http://stream2.taksimbilisim.com:1935/gtv/bant1/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Kanal7.tr" ,KANAL 7 HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/128284?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Kanal7.tr" ,KANAL 7 AVRUPA HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/2108?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Kanal7.tr" tvg-name="Kanal 7 Avrupa" ,KANAL 7 AVRUPA HD
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2022/03/cine5logo.png" ,Cine5 Tv
 https://host.onlineradyotv.net:8081/cine5/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2022/03/cine5logo.png" ,Cine5 Tv
@@ -315,10 +315,10 @@ https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8?checked
 http://local.ultrach.com:8080/bekira/bekira/76013?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="DreamTurk.tr" ,Dream Turk FHD TR
 http://128.199.114.2:8080/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,TATLISES TV
-http://195.155.98.170:5858/play/a0ac?checkedby:iptvcat.com
 #EXTINF:0 ,TATLISES TV HD
 http://yerelmedya.tv:1935/tatlisestv/bant1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,TATLISES TV
+http://195.155.98.170:5858/play/a0ac?checkedby:iptvcat.com
 #EXTINF:0 ,TEMPO TV
 http://yerelmedya.tv:1935/tempotv/bant1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,TEMPO TV SD
@@ -335,6 +335,8 @@ https://dogus-live.daioncdn.net/kraltv/playlist.m3u8?checkedby:iptvcat.com
 http://dygvideo.dygdigital.com/live/hls/kraltv?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1ed44dfe-415f-4cf5-b58c-70a0d78ded5a.png" ,Mega TV İskenderun
 https://tv170.ozelip.com:1936/megatv/megatv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 ,MAXIMUM TV HD
+http://hd9994.4kradyotv.com:26606/smh61/smh61/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="MTVHits.tr" ,MTV Hits
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/260099?checkedby:iptvcat.com
 #EXTINF:0 ,SLTV POP MUZIK FHD
@@ -425,8 +427,8 @@ https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8?checkedby:ip
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/13879?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Docubox.tr" ,DOCUBOX HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/350386?checkedby:iptvcat.com
-#EXTINF:0 ,GS TV HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/2626?checkedby:iptvcat.com
+#EXTINF:0 tvg-name="Galatasaray TV TR" ,GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b496000_sltur.m3u8
 #EXTINF:0 ,EXXEN SPORT 1 FHD (Mac Zamani)
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/371283?checkedby:iptvcat.com
 #EXTINF:0 ,EXXEN SPORT 1 HD (LQ) (Mac Zamani)
@@ -471,11 +473,11 @@ https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/chunklist.m3u8?chec
 https://yayin30.haber100.com/live/agrotv/chunklist_w1956205801.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="AkitTV.tr" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" ,Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" ,Akit TV
+#EXTINF:0 tvg-id="AkitTV.tr" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" ,Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,AKIT TV HD
+#EXTINF:0 tvg-id="AkitTV.tr" ,AKIT TV HD
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,AKIT TV HD
+#EXTINF:0 tvg-id="AkitTV.tr" ,AKIT TV HD
 http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8f474336-38db-4689-8424-57c2d7501463.jpg" ,Akkon TV
 https://tv170.ozelip.com:1936/akkontv/akkontv/playlist.m3u8?checkedby:iptvcat.com
@@ -1289,9 +1291,9 @@ https://broadcasttr.com:446/tv52/bant1/playlist.m3u8?checkedby:iptvcat.com
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0a63a891-c19e-48d4-b6c6-90a1700b1bd8.png" ,tvO
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="UcanKusTV.tr" ,Ucankus TR
+#EXTINF:0 tvg-id="UcanKusTV.tr" ,UçanKuş TV
 https://mn-nl.mncdn.com/blutv_ucankus2/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="UcanKusTV.tr" tvg-logo="https://i.ibb.co/qF8Rstv/0PTAYbs.jpg" ,Ucankus TR
+#EXTINF:0 tvg-id="UcanKusTV.tr" tvg-logo="https://i.ibb.co/qF8Rstv/0PTAYbs.jpg" ,UçanKuş TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,UYGUR TV NEWS
 https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1333397898.m3u8?checkedby:iptvcat.com
