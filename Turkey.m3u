@@ -5,15 +5,17 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-name="Show Turk TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" ,SHOW TURK HD
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Showmax.tr" ,SHOW MAX HD
+#EXTINF:0 tvg-id="Showmax.tr" tvg-name="SHOW MAX HD" ,SHOW MAX HD
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV HD TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" ,ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" ,ATV
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://kanallogo2.com/images/ulusal/atv.png" ,ATV Avrupa
+http://noxeditor1.com:80/live/berat/berat12/170.ts
 #EXTINF:0 tvg-id="KanalD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/m7QHWe17F1zclFk71k4mOjt9Kjilw7qxF0bXfrnq.png.webp" ,KANAL D HD
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:0 ,EURO D
+#EXTINF:0 tvg-name="EURO D" ,EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="StarTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" ,STAR TV HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8?checkedby:iptvcat.com
@@ -35,11 +37,11 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8?checkedb
 https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" ,TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TLC.tr" tvg-name="TLC HD TR" ,TLC HD
+#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" ,TLC HD
 http://195.155.98.170:5858/play/a0a5?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TLC.tr" tvg-name="TLC TR" ,TLC
 http://195.155.98.170:5858/play/a0a6?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DMAX.tr" tvg-name="DMAX HD TR" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/dmaxlogo-768x317.jpg.webp" ,DMAX HD
+#EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/dmaxlogo-768x317.jpg.webp" ,DMAX HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" ,DMAX HD
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
@@ -76,9 +78,9 @@ https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="BEYAZTV.tr" ,BEYAZ TV HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="FoxTurkey.us" tvg-name="Fox Türkiye" ,FOX TV HD
-https://foxtv-live-ad.ercdn.net:443/foxtv/foxtv_720p.m3u8?checkedby:iptvcat.com
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 #EXTINF:0 tvg-id="FoxTurkey.us" tvg-name="Fox Türkiye" ,FOX TV FHD
-https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/89.ts
 #EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/306fa662-2e64-46f9-a1a9-03953cb4e15b.png" ,NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="NTV.tr" ,NTV
@@ -130,7 +132,7 @@ https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TRTHaberHD.tr" tvg-name="TRT HABER HD TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6cd29963-ee35-4d91-9b0f-96d9030e6399.png" ,TRT HABER HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/1?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/213.ts
 #EXTINF:0 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" ,TRT HABER
 http://195.155.98.170:5858/play/a09k?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/tvnet-logo.jpg.webp" ,TVNET HD
@@ -139,7 +141,7 @@ https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8?checkedby:iptvcat.com
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="A2.tr" tvg-name="A2" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dca19bc0-70f5-4bd5-9132-ae7cf4c26867.png" ,A2 HD
 http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/63159?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="a2tv.tr" tvg-name="A2" ,A2 FHD
+#EXTINF:0 tvg-id="A2.tr" tvg-name="A2" ,A2 FHD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/128278?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://i.ibb.co/HXMLHcS/lalegul.jpg" ,LALEGÜL TV
 http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8?checkedby:iptvcat.com
@@ -216,9 +218,9 @@ http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/139527?checkedby:iptvcat.com
 #EXTINF:0 ,Moviemax Stars
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFdlKRnviFegnPx1FwtGyNk?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="SinemaTVAile.tr" ,SINEMA TV AILE HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/155747?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/208.ts
 #EXTINF:0 tvg-id="SinemaTV.tr" ,SINEMA TV HD
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNVXCzlSWYzxPpsE0YZaEGA?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/82.ts
 #EXTINF:0 ,SINETIVI HD
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFNUJVVXLwQ8NwO1Op9T4jQM?checkedby:iptvcat.com
 #EXTINF:0 ,SLTV KEMAL SUNAL
@@ -236,41 +238,41 @@ http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/128286?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ad58bbd-0cf3-4fdb-9af7-16704b101eab.png" ,blutv Belgesel
 https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index_3.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="BBCEarth.tr" tvg-name="BBC Earth HD TR" ,BBC EARTH HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/12511?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/102.ts
 #EXTINF:0 tvg-id="DaVinciLearning.tr" tvg-name="Da Vinci Learning HD TR" ,DA VINCI LEARNING HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/123305?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/22007.ts
 #EXTINF:0 tvg-id="DiscoveryChannel.tr" tvg-name="Discovery Channel TR" ,DISCOVERY CHANNEL HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/1528?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/190.ts
 #EXTINF:0 tvg-id="DiscoveryChannel.tr" tvg-name="Discovery Channel TR" ,DISCOVERY CHANNEL HD
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFoC7waT3Lw8WwpJLXmT9b4?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/190.ts
 #EXTINF:0 tvg-id="DiscoveryScience.tr" tvg-name="Discovery Science TR" ,DISCOVERY SCIENCE HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/1529?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/222.ts
 #EXTINF:0 ,HISTORY CHANNEL HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/2630?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/67.ts
 #EXTINF:0 tvg-id="LoveNature.ca" ,LOVE NATURE FHD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/384161?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/67242.ts
 #EXTINF:0 tvg-id="LoveNature.ca" ,LOVE NATURE HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/235098?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="LoveNature.ca" ,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="NatGeoHD.tr" ,NATIONAL GEO FHD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/301271?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/194.ts
 #EXTINF:0 tvg-id="NatGeoHD.tr" tvg-name="NatGeo HD TR" ,NATIONAL GEO HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/2629?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/194.ts
 #EXTINF:0 tvg-id="NatGeoWild.tr" ,NATIONAL GEO WILD FHD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/240520?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/133.ts
 #EXTINF:0 tvg-id="NatGeoWild.tr" tvg-name="NatGeo Wild HD TR" ,NATIONAL GEO WILD HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/2026?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/133.ts
 #EXTINF:0 ,SCIENCE - VIE TV FHD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/384160?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/184.ts
 #EXTINF:0 tvg-id="ViasatExplore.se" ,VIASAT EXPLORE HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/350384?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/50690.ts
 #EXTINF:0 tvg-id="ViasatHistoryHD.se" ,VIASAT HISTORY HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/350385?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/207.ts
 #EXTINF:0 tvg-id="ViasatHistoryNature.tr" ,VIASAT NATURE - HISTORY HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/136628?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/34392.ts
 #EXTINF:0 tvg-id="ViasatHistoryNature.tr" ,VIASAT NATURA & HISTORY
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFMLORNO7PYVxiVQZz-M_bKQ?checkedby:iptvcat.com
+http://noxeditor1.com:80/live/berat/berat12/34392.ts
 #EXTINF:-1 ,TURKUVAZ INFO
 http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3685
 #EXTINF:0 ,BELGESEL HD
