@@ -1,53 +1,53 @@
 ﻿#EXTM3U
-#EXTINF:0 tvg-id="ShowTV.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/show-tv-logo.png.webp" ,SHOW TV HD
+#EXTINF:0 tvg-id="ShowTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg" ,SHOW TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-name="Show Turk TR" ,SHOW TURK HD
+#EXTINF:0 tvg-name="Show Turk TR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show_turk.png" ,SHOW TURK HD
 https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-name="Show Turk TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ca4e535-46a8-43a3-9e65-e58b4da4810a.png" ,SHOW TURK HD
+#EXTINF:0 tvg-name="Show Turk TR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show_turk.png" ,SHOW TURK HD
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Showmax.tr" tvg-name="SHOW MAX HD" ,SHOW MAX HD
+#EXTINF:0 tvg-id="Showmax.tr" tvg-name="SHOW MAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show_max_tr.png" ,SHOW MAX HD
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV HD TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" ,ATV HD
+#EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr.png" ,ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0d3f32ba-3304-4397-b6e5-116d482b0731.png" ,ATV
+#EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr.png" ,ATV
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://kanallogo2.com/images/ulusal/atv.png" ,ATV Avrupa
+#EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-avrupa-tr.png" ,ATV Avrupa
 http://noxeditor1.com:80/live/berat/berat12/170.ts
-#EXTINF:0 tvg-id="KanalD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/m7QHWe17F1zclFk71k4mOjt9Kjilw7qxF0bXfrnq.png.webp" ,KANAL D HD
+#EXTINF:0 tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_d_tr.png" ,KANAL D HD
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#EXTINF:0 tvg-name="EURO D" ,EURO D
+#EXTINF:0 tvg-name="EURO D" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro-d-tr.png" ,EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="StarTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7149537c-dd50-4b7e-a042-9f7b45f4f136.png" ,STAR TV HD
+#EXTINF:0 tvg-id="StarTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" ,STAR TV HD
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="StarTV.tr" ,STAR TV
+#EXTINF:0 tvg-id="StarTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" ,STAR TV
 https://dogus-live.daioncdn.net/startv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="StarTV.tr" ,STAR TV HD
+#EXTINF:0 tvg-id="StarTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" ,STAR TV HD
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Start.tr" ,STAR TV HD
+#EXTINF:0 tvg-id="Start.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" ,STAR TV HD
 http://195.155.98.170:5858/play/a09z?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Start.tr" ,STAR TV
+#EXTINF:0 tvg-id="Start.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" ,STAR TV
 http://195.155.98.170:5858/play/a09w?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="Start.tr" ,STAR TV
+#EXTINF:-1 tvg-id="Start.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg" ,STAR TV
 https://stream-11.ix7.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrX7pQIJWH2w4GiI8eZ3AYuU)/dm/3/x729whv/s/live-3.m3u8#cell=lcore
-#EXTINF:0 ,EUROSTAR
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro_star_tr.png" ,EUROSTAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/769dc6ff-2963-48cb-908e-4a0d62bd4200.png" ,EUROSTAR
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro_star_tr.png" ,EUROSTAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/tlc-logo-768x398.png.webp" ,TLC HD
+#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
 https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" ,TLC HD
+#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" ,TLC HD
+#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
 http://195.155.98.170:5858/play/a0a5?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TLC.tr" tvg-name="TLC TR" ,TLC
+#EXTINF:0 tvg-id="TLC.tr" tvg-name="TLC TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC
 http://195.155.98.170:5858/play/a0a6?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/dmaxlogo-768x317.jpg.webp" ,DMAX HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" ,DMAX HD
+#EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX HD
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" ,DMAX HD
+#EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX HD
 http://195.155.98.170:5858/play/a0a4?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DMAX.tr" tvg-name="DMAX TR" ,DMAX SD
+#EXTINF:0 tvg-id="DMAX.tr" tvg-name="DMAX TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX SD
 http://195.155.98.170:5858/play/a09y?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/sgsTmb7/trt1.png" ,TRT 1 HD
 http://195.155.98.170:5858/play/a09c?checkedby:iptvcat.com
