@@ -310,7 +310,7 @@ https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8?checkedby:ipt
 #EXTINF:0 tvg-id="Number1TV.tr" ,NR1 YEDEK
 https://mn-nl.mncdn.com/blutv_nr12/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Number1Damar.tr" ,NR1 DAMAR HD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/403226?checkedby:iptvcat.com
+https://www.dailymotion.com/cdn/live/video/x67ch8g.m3u8?sec=Y0_R4QJenccVnkka_Rz971_ZsKI26AYQP9Yy7rlKtzGsHwmAXNpl6kCge1tXECpviyKTKjTwhw1VFa9-4pvLpg&dmTs=942318&dmV1st=12171BD447C19DDF2BD6D78D23FB1099
 #EXTINF:0 tvg-id="DreamTurk.tr" tvg-name="Dream Turk FHD TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dream_tv_tr_turk.png" ,DREAM TURK
 https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="DreamTurk.tr" tvg-name="Dream Turk FHD TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dream_tv_tr_turk.png" ,DREAM TURK FHD
@@ -399,6 +399,8 @@ https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8?checkedby:iptvcat.com
 https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="FashionTV.tr" ,Fashion TV HD
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FashionOne.tr" ,Fashion One HD
+https://www.dailymotion.com/cdn/live/video/x67chk3.m3u8?sec=N7UOwfVmtHJ2rem3UAEjt05DiJIdvFlcWxbsIy8MUVw-TAk5LN88Djnp9qpZr3cUdefDQlNFOubPvEYE2Ag8lA&dmTs=556773&dmV1st=0EFB644B7D8232F4C28719CED8364EF6
 #EXTINF:0 ,Fashion TV Paris
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfashiontvparis/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,Fashion TV RU WORLD
@@ -430,7 +432,7 @@ http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/13879?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Docubox.tr" ,DOCUBOX HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/350386?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="GALATASARAYTV.tr" tvg-name="Galatasaray TV TR" ,GS TV HD
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b496000_sltur.m3u8
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 ,EXXEN SPORT 1 FHD (Mac Zamani)
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/371283?checkedby:iptvcat.com
 #EXTINF:0 ,EXXEN SPORT 1 HD (LQ) (Mac Zamani)
