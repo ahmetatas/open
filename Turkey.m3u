@@ -345,85 +345,87 @@ http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/260099?checkedby:iptvcat.com
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/391632?checkedby:iptvcat.com
 #EXTINF:0 ,SLTV SLOW MUZIK FHD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/391578?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="minikaCocuk.tr" ,Minika Çocuk
+#EXTINF:0 tvg-id="minikaCocuk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minika_cocuk.png" ,Minika Çocuk
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOEmJOkbLq0gDZrMN2PDhsY?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="minikaCocuk.tr" ,Minika Çocuk
+#EXTINF:0 tvg-id="minikaCocuk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minika_cocuk.png" ,Minika Çocuk
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/1868?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MinikaGo.tr" ,minikaGO
+#EXTINF:0 tvg-id="MinikaGo.tr" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minika_go.png" ,minikaGO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="minikaGO.tr" ,minikaGO
+#EXTINF:0 tvg-id="minikaGO.tr" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minika_go.png" ,minikaGO
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/1021?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CartoonNetworkTurkey.us" tvg-name="Cartoon Network TR" ,Cartoon Network
+#EXTINF:0 tvg-id="CartoonNetworkTurkey.us" tvg-name="Cartoon Network TR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg" ,Cartoon Network
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TRT Cocuk HD TR" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" ,TRT Çocuk
+#EXTINF:0 tvg-id="TRT Cocuk HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-cocuk-tr.svg" ,TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,TRT Çocuk
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-cocuk-tr.svg" ,TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://i.imgur.com/ThPgKiG.jpg" ,TRT Çocuk
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-cocuk-tr.svg" ,TRT Çocuk
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SmartCocuk.tr" ,COCUK SMART HD
+#EXTINF:0 tvg-id="SmartCocuk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cocuk-smart-tr.png" ,COCUK SMART HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/139521?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" ,blutv Kids
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,blutv Kids HD
+#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" ,blutv Kids HD
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Boomerang.tr" tvg-name="Boomerang HD TR" ,BOOMERANG HD
+#EXTINF:0 tvg-id="Boomerang.tr" tvg-name="Boomerang HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang-us.svg" ,BOOMERANG HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/176631?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Nickelodeon.tr" tvg-name="Nickelodeon TR" ,NICKELODEON TURKIYE
+#EXTINF:0 tvg-id="Nickelodeon.tr" tvg-name="Nickelodeon TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_us.png" ,NICKELODEON TURKIYE
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/6053?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DisneyJunior.tr" tvg-name="Disney JR TR" ,DISNEY JR
+#EXTINF:0 tvg-id="DisneyJunior.tr" tvg-name="Disney JR TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" ,DISNEY JR
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDKfhflE4QqEZGUfDOumTos?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DisneyJunior.tr" tvg-name="Disney Junior TR" ,DISNEY JUNIOR
+#EXTINF:0 tvg-id="DisneyJunior.tr" tvg-name="Disney Junior TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" ,DISNEY JUNIOR
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/7959?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DisneyChannel.tr" ,Disney Channel
+#EXTINF:0 tvg-id="DisneyChannel.tr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" ,Disney Channel
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,Cartoons Animated 4U
 https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,TiVi 6 HD
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivi-6-tr.png" ,TiVi 6 HD
 http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,Tivi6
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivi-6-tr.png" ,Tivi6
 http://195.155.98.170:5858/play/a0ad?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TRTAlArabiya.tr" ,TRT ARABi
+#EXTINF:0 tvg-id="TRTAlArabiya.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-arabi-tr.png" ,TRT ARABi
 http://tv-trtarabi.live.trt.com.tr/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,TV4
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv4_tr.png" ,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,TV4 FHD
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv4_tr.png" ,TV4 FHD
 https://mn-nl.mncdn.com/blutv_tv4/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="EBATVLise.tr" tvg-name="TRT Eba TV Lise TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/095d92e1-d1e2-48d0-aa38-235915d7293d.png" ,EBA TV Lise
+#EXTINF:0 tvg-id="EBATVLise.tr" tvg-name="TRT Eba TV Lise TR" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eba-tv-lise-tr.png" ,EBA TV Lise
 https://mn-nl.mncdn.com/blutv_ebal2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="EBATVOrtaokul.tr" tvg-name="TRT Eba TV Ortaokul HD TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6e3c8aac-deba-4451-b084-5074011a47ae.png" ,EBA TV Ortaokul
+#EXTINF:0 tvg-id="EBATVOrtaokul.tr" tvg-name="TRT Eba TV Ortaokul HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eba-tv-ortaokul-tr.png" ,EBA TV Ortaokul
 https://mn-nl.mncdn.com/blutv_ebao2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="EBATVIlkokul.tr" tvg-name="TRT Eba TV Ilkokul HD TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/86ddd608-e9b8-403b-8777-554d58953cd2.png" ,EBA TV İlkokul
+#EXTINF:0 tvg-id="EBATVIlkokul.tr" tvg-name="TRT Eba TV Ilkokul HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eba-tv-ilkokul-tr.png" ,EBA TV İlkokul
 https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="EBATVIlkokul.tr" tvg-name="TRT Eba TV Ilkokul TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/86ddd608-e9b8-403b-8777-554d58953cd2.png" ,EBA TV İlkokul
+#EXTINF:0 tvg-id="EBATVIlkokul.tr" tvg-name="TRT Eba TV Ilkokul TR" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eba-tv-ilkokul-tr.png" ,EBA TV İlkokul
 https://mn-nl.mncdn.com/blutv_ebai2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="FashionTV.tr" ,Fashion TV HD
+#EXTINF:0 tvg-id="FashionTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion-tv-fr.svg" ,Fashion TV HD
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="FashionOne.tr" ,Fashion One HD
-https://www.dailymotion.com/cdn/live/video/x67chk3.m3u8?sec=N7UOwfVmtHJ2rem3UAEjt05DiJIdvFlcWxbsIy8MUVw-TAk5LN88Djnp9qpZr3cUdefDQlNFOubPvEYE2Ag8lA&dmTs=556773&dmV1st=0EFB644B7D8232F4C28719CED8364EF6
-#EXTINF:0 ,Fashion TV Paris
+#EXTINF:0 tvg-id="FashionOne.tr" tvg-logo="https://www.lyngsat-stream.com/logo/tv/ff/fashion_one_tr.png" ,Fashion One HD
+http://1dreo6pa.ottclub.xyz/iptv/BUGPZSV9W79S2H/1010/index.m3u
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion-tv-fr.svg" ,Fashion TV Paris
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastfashiontvparis/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,Fashion TV RU WORLD
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_fashion_channel_ru.png" ,Fashion TV RU WORLD
 https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,FashionTV WORLD
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion-tv-fr.svg" ,FashionTV WORLD
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,FASHION 4K
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion-4k-us.png" ,FASHION 4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,Global Fashion Television
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_uk.png" ,Global Fashion Television
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,MODA TV FM
 http://modafm52300.ozelip.com:28008/modafm/modafm/chunklist_w1385220734.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,KOMEDi HD
 https://mn-nl.mncdn.com/blutv_komedi/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SemerkandTV.tr" tvg-logo="https://i.imgur.com/WD0JaKP.png" ,Semerkand TV
+#EXTINF:0 tvg-id="SemerkandTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/semerkand-tv-tr.png" ,Semerkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SemerkandTV.tr" ,SEMERKAND TV HD
+#EXTINF:0 tvg-id="SemerkandTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/semerkand-tv-tr.png" ,SEMERKAND TV HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TV85.tr" tvg-name="TV 8.5 HD TR" ,TV8 BUCUK HD
+#EXTINF:0 tvg-id="TV8.tr" tvg-name="TV 8" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png" ,TV 8 HD
+http://1dreo6pa.ottclub.xyz/iptv/BUGPZSV9W79S2H/2286/index.m3u
+#EXTINF:0 tvg-id="TV85.tr" tvg-name="TV 8.5 HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv85_tr.png" ,TV8 BUCUK HD
 https://mn-nl.mncdn.com/blutv_tv8_52/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TV85.tr" tvg-name="TV8,5 HD" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8f3e4926-7cbd-47fb-9015-b4040a91b311.png" ,TV8.5
+#EXTINF:0 tvg-id="TV85.tr" tvg-name="TV8,5 HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv85_tr.png" ,TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_52/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 ,TV8 iNT
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-8-international-tr.png" ,TV8 iNT
 https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 ,YAREN TV
 https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8?checkedby:iptvcat.com
@@ -431,7 +433,7 @@ https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8?checkedby:ip
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/13879?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Docubox.tr" ,DOCUBOX HD
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/350386?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="GALATASARAYTV.tr" tvg-name="Galatasaray TV TR" ,GS TV HD
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" tvg-name="Galatasaray TV TR" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galatasaray_tv.png" ,GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 ,EXXEN SPORT 1 FHD (Mac Zamani)
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/371283?checkedby:iptvcat.com
