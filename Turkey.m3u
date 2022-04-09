@@ -162,9 +162,9 @@ https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/gg/guneydogu-tv-tr.png" ,Guneydogu TV
 http://stream2.taksimbilisim.com:1935/gtv/bant1/playlist.m3u8
 #EXTINF:0 tvg-id="Kanal7.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg" ,KANAL 7 HD
-https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
-#EXTINF:0 tvg-id="Kanal7.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg" ,KANAL 7 HD
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Kanal7.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg" ,KANAL 7 SD
+https://live.kanal7.com/live/kanal7LiveMobile/index.m3u8
 #EXTINF:0 tvg-id="Kanal7.tr" tvg-name="Kanal 7 Avrupa" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal7_avrupa.png" ,KANAL 7 AVRUPA HD
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2022/03/cine5logo.png" ,Cine5 Tv
