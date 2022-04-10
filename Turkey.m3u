@@ -47,7 +47,7 @@ https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8?checkedby:iptvcat.com
 https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="DMAXTurkey.us" tvg-name="DMAX Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX HD
 http://195.155.98.170:5858/play/a0a4?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DMAX.tr" tvg-name="DMAX TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX SD
+#EXTINF:0 tvg-id="2602" tvg-name="DMAX TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX SD
 http://195.155.98.170:5858/play/a09y?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.png" ,TRT 1 HD
 http://195.155.98.170:5858/play/a09c?checkedby:iptvcat.com
