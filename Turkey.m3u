@@ -135,10 +135,8 @@ http://195.155.98.170:5858/play/a09k
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:0 tvg-id="AkilliTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/akilli_tv_tr.png" ,Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
-#EXTINF:0 tvg-id="A2.tr" tvg-name="A2" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png" ,A2 HD
-http://albamax.ddns.me:8080/fullhdp/TNNSquCGX5/63159
 #EXTINF:0 tvg-id="A2.tr" tvg-name="A2" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png" ,A2 FHD
-http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/128278
+http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/523
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lalegul-tv-tr.png" ,LALEGÜL TV
 http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lalegul-tv-tr.png" ,LALEGÜL TV
