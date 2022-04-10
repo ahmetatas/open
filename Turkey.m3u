@@ -101,17 +101,17 @@ https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8?checke
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="HABERTURK.tr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haberturk-tr.svg" ,HABERTURK HD
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="24.tr" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
+#EXTINF:0 tvg-id="24.tr" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="24.tr" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
+#EXTINF:0 tvg-id="24.tr" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653&checkedby:iptvcat.com
-#EXTINF:0 tvg-id="24.tr" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
+#EXTINF:0 tvg-id="24.tr" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
-#EXTINF:0 tvg-id="24.tr" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
+#EXTINF:0 tvg-id="24.tr" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="24.tr" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
+#EXTINF:0 tvg-id="24.tr" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
 https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="UlkeTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ulke-tv-tr.svg" ,Ulke TV HD
 https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8?checkedby:iptvcat.com
@@ -131,7 +131,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe45
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt_eu.png" ,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TRTHaberHD.tr" tvg-name="TRT HABER HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-haber-tr.svg" ,TRT HABER HD
+#EXTINF:0 tvg-id="TRTHaberHD.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-haber-tr.svg" ,TRT HABER HD
 http://noxeditor1.com:80/live/berat/berat12/213.ts
 #EXTINF:0 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-haber-tr.svg" ,TRT HABER
 http://195.155.98.170:5858/play/a09k?checkedby:iptvcat.com
@@ -179,7 +179,7 @@ https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8?checkedby:iptvcat.com
 http://yerelmedya.tv:1935/lifetv/bant1/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Life TV
 https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ll/line_tv_tr.png" ,LINE TV
+#EXTINF:0 tvg-name="Line TV Bursa TR" tvg-logo="https://www.lyngsat.com/logo/tv/ll/line_tv_tr.png" ,LINE TV
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Tele1.tr" tvg-name="Tele 1 TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_1_tr.png" ,TELE 1 HD
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8?checkedby:iptvcat.com
@@ -217,7 +217,7 @@ http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/145085?checkedby:iptvcat.com
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/139527?checkedby:iptvcat.com
 #EXTINF:0 ,Moviemax Stars
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFFdlKRnviFegnPx1FwtGyNk?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SinemaTVAile.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aile-tr.png" ,SINEMA TV AILE HD
+#EXTINF:0 tvg-id="SinemaTVAile.tr" tvg-name="Sinema TV Aile TR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aile-tr.png" ,SINEMA TV AILE HD
 http://noxeditor1.com:80/live/berat/berat12/208.ts
 #EXTINF:0 tvg-id="SinemaTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-tv-tr.png" ,SINEMA TV HD
 http://noxeditor1.com:80/live/berat/berat12/82.ts
@@ -255,11 +255,11 @@ http://noxeditor1.com:80/live/berat/berat12/67242.ts
 http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/235098?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" ,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="NatGeoHD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" ,NATIONAL GEO FHD
+#EXTINF:0 tvg-id="NatGeoHD.tr" tvg-name="NatGeo HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" ,NATIONAL GEO FHD
 http://noxeditor1.com:80/live/berat/berat12/194.ts
 #EXTINF:0 tvg-id="NatGeoHD.tr" tvg-name="NatGeo HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" ,NATIONAL GEO HD
 http://noxeditor1.com:80/live/berat/berat12/194.ts
-#EXTINF:0 tvg-id="NatGeoWild.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" ,NATIONAL GEO WILD FHD
+#EXTINF:0 tvg-id="NatGeoWild.tr" tvg-name="NatGeo Wild HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" ,NATIONAL GEO WILD FHD
 http://noxeditor1.com:80/live/berat/berat12/133.ts
 #EXTINF:0 tvg-id="NatGeoWild.tr" tvg-name="NatGeo Wild HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" ,NATIONAL GEO WILD HD
 http://noxeditor1.com:80/live/berat/berat12/133.ts
