@@ -1,6 +1,6 @@
 # open
 
-
+https://www.dailyiptvlist.com/
 
 https://raw.githubusercontent.com/ahmetatas/open/main/Turkey.m3u
 
