@@ -1,6 +1,6 @@
 # open
 
-https://www.dailyiptvlist.com/
+https://www.dailyiptvlist.com/iptv-europe-m3u-new/turkey/
 
 https://raw.githubusercontent.com/ahmetatas/open/main/Turkey.m3u
 
