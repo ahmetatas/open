@@ -135,7 +135,7 @@ https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
 #EXTINF:0 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt_haber.png" ,TGRT Haber
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt_eu.png" ,TGRT EU
+#EXTINF:0 tvg-id="TGRTEU.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt_eu.png" ,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:0 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-haber-tr.svg" ,TRT HABER HD
 http://tv.romanija.xyz:8080/22maky/test111/1219
