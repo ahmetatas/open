@@ -377,7 +377,7 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fashion_tv_uk.png" ,Global Fashion Television
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
-#EXTINF:0 tvg-id="3890" tvg-name="Galatasaray TV TR" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galatasaray_tv.png" ,GS TV HD
+#EXTINF:0 tvg-id="GSTV.tr" tvg-name="Galatasaray TV TR" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galatasaray_tv.png" ,GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tivi-6-tr.png" ,TiVi 6 HD
 http://yerelmedya.tv:1935/tivi6/bant1/chunklist.m3u8
