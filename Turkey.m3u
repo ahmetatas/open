@@ -610,7 +610,7 @@ http://128.199.114.2:8080/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4b983b1-e816-42d3-8a64-35500a2f0002.png" ,DRT Denizli
 http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/uOMuhrI.jpg" ,DRT TV
-https://broadcasttr.com:446/drt/bant1/chunklist_w172830844.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+https://broadcasttr.com:446/drt/bant1/chunklist_w172830844.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:0 tvg-logo="https://yerelmedya.tv/logosTV/dimtv.png" ,DİM TV
 https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0ca9b4ad-b606-4892-b9f2-d264213d4ade.png" ,Edirne TV
@@ -680,7 +680,7 @@ http://yerelmedya.tv:1935/olaytv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f38c7776-5c6d-4053-bdce-9b68e4ea6cbb.png" ,Gaziantep Olay TV
 http://yerelmedya.tv:1935/olaytv/_definst_/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/kO2pgg1.jpg" ,Gaziantep Olay Tv
-https://waw2.artiyerelmedya.net/olaytv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+https://waw2.artiyerelmedya.net/olaytv/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:0 tvg-logo="https://yerelmedya.tv/logosTV/olaytv.png" ,GAZİANTEP OLAY TV
 https://waw2.artiyerelmedya.net/olaytv/bant1/chunks.m3u8
 #EXTINF:0 ,GO-RTV
@@ -732,7 +732,7 @@ http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:0 ,ICEL TV
 http://stream.taksimbilisim.com:1935/iceltv/bant1/iptvdelisi.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CGwImKv.png" ,Icel TV
-https://broadcasttr.com:446/iceltv/bant1/chunklist_w1752343703.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+https://broadcasttr.com:446/iceltv/bant1/chunklist_w1752343703.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:0 ,Imam Hussein TV 1
 https://fa.imamhusseintv.com/live/ih1.m3u8
 #EXTINF:0 ,Imam Hussein TV 2
@@ -814,7 +814,7 @@ https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8
 #EXTINF:0 ,KANAL 68
 http://195.155.98.170:5858/play/a0ap
 #EXTINF:0 tvg-logo="https://i.imgur.com/gx7m6Fz.jpg" ,Kanal 68
-https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8?hash=3e0bbf2c55e462f4edf05c003ecdfcb6&checkedby:iptvcat.com
+https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8?hash=3e0bbf2c55e462f4edf05c003ecdfcb6
 #EXTINF:0 ,Kanal Avrupa
 http://51.15.2.151/hls/kanalavrupa.m3u8
 #EXTINF:0 tvg-id="KanalB.tr" ,KANAL B HD
@@ -838,7 +838,7 @@ http://yerelmedya.tv:1935/kanalz/bant1/playlist.m3u8
 #EXTINF:0 ,KANAL Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/elAlSno.png" ,Kanal Z
-https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:0 ,KARDELEN TV
 http://newcrm.streamencoding.com/hls/kardelen-live/index.m3u8
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/29e72de4-dcdd-4ff4-9383-7f92692c1745.png" ,Kardeş TV
@@ -990,7 +990,7 @@ https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastnothingscripted30a/playlist
 #EXTINF:0 ,NRG91 Music
 http://tv.nrg91.gr:1935/onweb/live/chunklist_w68553139.m3u8
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/a1e26fbf-851a-4aeb-a3e6-8294132be486.png" ,Nur TV
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCW9SRQR959QnMXEWDKNYHeg/live&checkedby:iptvcat.com
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCW9SRQR959QnMXEWDKNYHeg/live
 #EXTINF:0 ,OAN Plus
 https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastoannews/playlist.m3u8
 #EXTINF:0 ,OCKO TV EXPRESS
@@ -1200,11 +1200,11 @@ http://yerelmedya.tv:1935/tv41/_definst_/bant1/playlist.m3u8
 #EXTINF:0 tvg-name="TV 41 TR" ,TV 41 m3u8 taksimbilisim
 http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/090de54f-27dc-4a7e-9b78-fd979dc77777.png" ,TV 48
-https://xaverage.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined&checkedby:iptvcat.com
+https://xaverage.com:5443/LiveApp/streams/tv48.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #EXTINF:0 ,TV 52
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/iptvdelisi.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jt92HbR.jpg" ,TV 52
-https://broadcasttr.com:446/tv52/bant1/chunklist_w846204715.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+https://broadcasttr.com:446/tv52/bant1/chunklist_w846204715.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:0 tvg-logo="https://i.imgur.com/L6GE7ZG.png" ,TV 52
 rtmp://stream.taksimbilisim.com/tv52/bant1
 #EXTINF:0 ,TV DEN
@@ -1272,6 +1272,6 @@ http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/playlist.m3u8
 #EXTINF:0 ,YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ZhU6FcH.png" ,YOL TV
-https://stream.yol.tv:9443/medialive/yol.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0&checkedby:iptvcat.com
+https://stream.yol.tv:9443/medialive/yol.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c2aa7e-bebc-4b8f-b697-393fb7ebcaee.png" ,Yusufeli Belediyesi Web TV
 https://cdn-yusufelibeltrtv.yayin.com.tr/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist_w992750607_b1596000.m3u8
