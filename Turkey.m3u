@@ -31,9 +31,9 @@ http://195.155.98.170:5858/play/a09w
 https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:0 tvg-id="EuroStar.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro_star_tr.png" ,EUROSTAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
-#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
+#EXTINF:0 tvg-id="TLCTurkey.tr" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
 https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
-#EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
+#EXTINF:0 tvg-id="TLCTurkey.tr" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
 http://195.155.98.170:5858/play/a0a5
