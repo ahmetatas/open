@@ -1,4 +1,4 @@
-﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml,http://epg.it999.ru/epg.xml.gz"
+﻿#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/de/horizon.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz,http://epg.it999.ru/epg.xml.gz"
 #EXTINF:0 tvg-id="ShowTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg" ,SHOW TV HD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:0 tvg-id="ShowTurk.tr" tvg-name="Show Turk TR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show_turk.png" ,SHOW TURK HD
