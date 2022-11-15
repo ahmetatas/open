@@ -6,13 +6,13 @@ https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
 #EXTINF:0 tvg-id="ShowTurk.tr" tvg-name="Show Turk TR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show_turk.png" ,SHOW TURK HD
 https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="ShowMax.tr" tvg-name="SHOW MAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show_max_tr.png" ,SHOW MAX HD
-http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6632
 #EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr.png" ,ATV HD
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr.png" ,ATV
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:0 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-avrupa-tr.png" ,ATV Avrupa
-http://noxeditor1.com:80/live/berat/berat12/170.ts
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7081
 #EXTINF:0 tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_d_tr.png" ,KANAL D HD
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0 tvg-id="EuroD.tr" tvg-name="EURO D" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro-d-tr.png" ,EURO D
@@ -32,27 +32,27 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:0 tvg-id="EuroStar.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro_star_tr.png" ,EUROSTAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="TLCTurkey.tr" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
-https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
-#EXTINF:0 tvg-id="TLCTurkey.tr" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:0 tvg-id="TLCTurkey.us" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
 http://195.155.98.170:5858/play/a0a5
+#EXTINF:0 tvg-id="TLCTurkey.tr" tvg-name="TLC Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
+https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 tvg-id="TLC.tr" tvg-name="TLC TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC
 http://195.155.98.170:5858/play/a0a6
 #EXTINF:0 tvg-id="DMAXTurkey.tr" tvg-name="DMAX Türkiye" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/dmaxlogo-768x317.jpg.webp" ,DMAX HD
 https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 #EXTINF:0 tvg-id="DMAXTurkey.tr" tvg-name="DMAX Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX HD
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
-#EXTINF:0 tvg-id="DMAXTurkey.tr" tvg-name="DMAX Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX HD
 http://195.155.98.170:5858/play/a0a4
+#EXTINF:0 tvg-id="DMAXTurkey.tr" tvg-name="DMAX Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX HD
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 tvg-id="2602" tvg-name="Dmax TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX SD
 http://195.155.98.170:5858/play/a09y
-#EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.png" ,TRT 1 HD
-http://195.155.98.170:5858/play/a09c
 #EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.png" ,TRT 1 HD
+http://195.155.98.170:5858/play/a09c
 #EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.png" ,TRT 1
 http://195.155.98.170:5858/play/a09j
 #EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-1-tr.png" ,TRT 1
@@ -76,7 +76,9 @@ https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:0 tvg-id="BEYAZTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beyaz_tv_tr.png" ,BEYAZ TV HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:0 tvg-id="FoxTurkey.us" tvg-name="Fox Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-us.svg" ,FOX TV HD
-https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/55
+#EXTINF:0 tvg-id="FoxTurkey.us" tvg-name="Fox Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-us.svg" ,FOX TV HD+
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/55635
 #EXTINF:0 tvg-id="Kanal7.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg" ,KANAL 7 HD
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:0 tvg-id="Kanal7.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-7-tr.svg" ,KANAL 7 SD
@@ -86,11 +88,9 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:0 tvg-id="AkilliTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/aa/akilli_tv_tr.png" ,Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:0 tvg-id="A2.tr" tvg-name="A2" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png" ,A2 FHD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/523
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6314
 #EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-tr.svg" ,NTV HD
 http://195.155.98.170:5858/play/a0a0
-#EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-tr.svg" ,NTV
-http://195.155.98.170:5858/play/a09x
 #EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-tr.svg" ,NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-tr.svg" ,NTV
@@ -99,14 +99,16 @@ https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
 #EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-tr.svg" ,NTV HD
 https://mn-nl.mncdn.com/blutv_ntv_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-tr.svg" ,NTV
+http://195.155.98.170:5858/play/a09x
 #EXTINF:0 tvg-id="CNNTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-turk-us-tr.svg" ,CNN TURK HD
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:0 tvg-id="CNNTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-turk-us-tr.svg" ,CNN TURK HD
 https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haberturk-tr.svg" ,HABERTURK HD
-https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
-#EXTINF:0 tvg-id="Haberturk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haberturk-tr.svg" ,HABERTURK HD
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+#EXTINF:0 tvg-id="Haberturk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haberturk-tr.svg" ,HABERTURK HD
+https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 #EXTINF:0 tvg-id="2615" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:0 tvg-id="2615" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
@@ -144,9 +146,9 @@ http://195.155.98.170:5858/play/a09k
 #EXTINF:0 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_net_tr.png" ,TVNET HD
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:0 tvg-id="Tele1.tr" tvg-name="Tele 1 TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_1_tr.png" ,TELE 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/9334
+#EXTINF:0 tvg-id="Tele1.tr" tvg-name="Tele 1 TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_1_tr.png" ,TELE 1 HD
 https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
-#EXTINF:0 tvg-id="Tele1.tr" tvg-name="Tele 1 TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_1_tr.png" ,Tele 1
-https://mn-nl.mncdn.com/blutv_tele1_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 tvg-id="Tele1.tr" tvg-name="Tele 1 TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tele_1_tr.png" ,TELE 1 SD Yedek
 http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 #EXTINF:0 tvg-id="BenguTurk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bengu_turk.png" ,BENGÜTÜRK TV [HD]
@@ -229,12 +231,12 @@ https://tv170.ozelip.com:1936/uluslar/uluslar/playlist.m3u8
 http://noxeditor1.com:80/live/berat/berat12/208.ts
 #EXTINF:0 tvg-id="SinemaTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-tv-tr.png" ,SINEMA TV HD
 http://tv.romanija.xyz:8080/22maky/test111/1195
-#EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg" ,TRT BELGESEL HD
-https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg" ,TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg" ,TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg" ,TRT BELGESEL HD
+https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 tvg-id="BBCEarthTurkey.uk" tvg-name="BBC Earth HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_earth_uk.png" ,BBC EARTH HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/12511
 #EXTINF:0 tvg-id="DaVinci.de" tvg-name="Da Vinci Learning HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" ,DA VINCI LEARNING HD
