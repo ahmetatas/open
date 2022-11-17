@@ -168,9 +168,9 @@ http://iptvmasterlink.dyndns.org:8080/UlusalKanal/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/tt/turkhaber-tr.png" ,TURK HABER TV HD
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:0 tvg-id="EdessaTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ee/edessa_tv_tr.png" ,EDESSA TV URFA
-http://185.87.252.44:4343/hls/edessatv.m3u8
+https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
 #EXTINF:0 tvg-id="KanalUrfa.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_urfa.png" ,Kanal Urfa
-https://broadcasttr.com:446/kanalurfa/bant1/chunklist_w1125528664.m3u8
+https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8?hash=f22912d1d0f1e6e67f52b96ed3f4e6e5
 #EXTINF:0 tvg-id="KanalUrfa.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_urfa.png" ,Kanal Urfa
 https://broadcasttr.com:446/kanalurfa/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.daktilo.com/sites/455/uploads/2020/03/24/large/unnamed.png" ,UR FANATiK TV
