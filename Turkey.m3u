@@ -194,7 +194,7 @@ https://mn-nl.mncdn.com/blutv_diyanet2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="DiyanetTV.tr" tvg-name="TRT Diyanet TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/diyanet-tv-tr.png" ,DiYANET TV
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:0 tvg-id="TV8.tr" tvg-name="TV 8" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png" ,TV 8 HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/278465
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:0 tvg-id="TV8.tr" tvg-name="TV 8" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png" ,TV 8 HD
 http://1dreo6pa.ottclub.xyz/iptv/BUGPZSV9W79S2H/2286/index.m3u
 #EXTINF:0 tvg-id="TV85.tr" tvg-name="TV 8.5 HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv85_tr.png" ,TV8 BUCUK HD
