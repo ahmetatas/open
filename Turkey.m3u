@@ -8,9 +8,9 @@ https://mn-nl.mncdn.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="ShowMax.tr" tvg-name="SHOW MAX HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show_max_tr.png" ,SHOW MAX HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6632
 #EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr.png" ,ATV HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=bDMFvTEbaRo&t=46s
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/52
 #EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV TR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr.png" ,ATV
-https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4769
 #EXTINF:0 tvg-id="ATVAvrupa.tr" tvg-name="ATV Avrupa TR" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv-avrupa-tr.png" ,ATV Avrupa
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/7081
 #EXTINF:0 tvg-id="KanalD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_d_tr.png" ,KANAL D HD
