@@ -238,33 +238,33 @@ https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg" ,TRT BELGESEL HD
 https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 tvg-id="BBCEarthTurkey.uk" tvg-name="BBC Earth HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_earth_uk.png" ,BBC EARTH HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/12511
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3888
 #EXTINF:0 tvg-id="DaVinci.de" tvg-name="Da Vinci Learning HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-vinci-de.png" ,DA VINCI LEARNING HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/123305
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1921
 #EXTINF:0 tvg-id="DiscoveryChannelTurkey.us" tvg-name="Discovery Channel TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" ,DISCOVERY CHANNEL HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1528
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1484
 #EXTINF:0 tvg-id="DiscoveryScienceTurkey.us" tvg-name="Discovery Science TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" ,DISCOVERY SCIENCE HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1529
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4187
 #EXTINF:0 tvg-id="TheHistoryChannelTurkey.us" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" ,HISTORY CHANNEL HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2630
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1637
 #EXTINF:0 tvg-name="ANIMAUX" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animaux_fr.png" ,ANIMAUX HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384166
 #EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" ,LOVE NATURE HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/235098
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95062
 #EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" ,LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-id="NationalGeographicTurkey.us" tvg-name="NatGeo HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" ,NATIONAL GEO HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2629
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/266
 #EXTINF:0 tvg-id="NationalGeographicWildTurkey.us" tvg-name="NatGeo Wild HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" ,NATIONAL GEO WILD HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2026
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/264
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ss/science_et_vie_tv_fr.png" ,SCIENCE - VIE TV FHD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384160
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95061
 #EXTINF:0 tvg-id="ViasatExplore.se" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_explore.png" ,VIASAT EXPLORE HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/350384
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95060
 #EXTINF:0 tvg-id="ViasatHistoryHD.se" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_history_hd.png" ,VIASAT HISTORY HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136628
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3887
 #EXTINF:0 tvg-id="ViasatHistoryNature.tr" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_nature_hd.png" ,VIASAT NATURE HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/350385
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95060
 #EXTINF:0 ,TURKUVAZ INFO
 http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3685
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ad58bbd-0cf3-4fdb-9af7-16704b101eab.png" ,blutv Belgesel
@@ -330,9 +330,9 @@ https://trkvz-live.ercdn.net/minikagococuk/minikagococuk.m3u8?st=HSi79-3s1Gm-vqG
 #EXTINF:0 tvg-id="MinikaCocuk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minika_cocuk.png" ,Minika Çocuk
 http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFOEmJOkbLq0gDZrMN2PDhsY
 #EXTINF:0 tvg-id="MinikaGo.tr" tvg-logo="https://www.lyngsat.com/logo/tv/mm/minika_go.png" ,minikaGO
-http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+https://trkvz-live.ercdn.net/minikago/minikago.m3u8?st=mGdQoh4q2gbA9XFrHgWrpA&e=1668926633&SessionID=4pcdv1fwtyaivbvrvqoowirg&StreamGroup=canli-yayin&Site=minikago&DeviceGroup=mobil
 #EXTINF:0 tvg-id="CartoonNetworkTurkey.tr" tvg-name="Cartoon Network TR" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg" ,Cartoon Network
-http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3801
 #EXTINF:0 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-cocuk-tr.svg" ,TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="TRTCocuk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-cocuk-tr.svg" ,TRT Çocuk
@@ -340,23 +340,23 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="TRTCocuk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-cocuk-tr.svg" ,TRT Çocuk
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="SmartCocuk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cocuk-smart-tr.png" ,COCUK SMART HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291160
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13138
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" ,blutv Kids
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" ,blutv Kids HD
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8
 #EXTINF:0 tvg-id="BoomerangTurkey.us" tvg-name="Boomerang HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang-us.svg" ,BOOMERANG HD
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/672
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/8740
 #EXTINF:0 tvg-id="Nickelodeon.tr" tvg-name="Nickelodeon TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_us.png" ,NICKELODEON TURKIYE
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1178.ts
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2471
 #EXTINF:0 tvg-id="NickJrTurkey.tr" tvg-name="Nick JR TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" ,NICK JR
-http://tv.romanija.xyz:8080/live/22vahid99593/razmjena114352/1177.ts
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2417
 #EXTINF:0 tvg-id="DisneyJunior.tr" tvg-name="Disney Junior TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" ,DISNEY JUNIOR
-http://iptvtree.net:8080/outputofflinechecker09/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/633
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2419
 #EXTINF:0 tvg-id="DisneyJunior.tr" tvg-name="Disney JR TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" ,DISNEY JR
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFDKfhflE4QqEZGUfDOumTos
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2419
 #EXTINF:0 tvg-id="DisneyChannelTurkey.tr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" ,Disney Channel
-http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/36
 #EXTINF:0 ,Cartoons Animated 4U
 https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8
 #EXTINF:0 tvg-id="EBATVLise.tr" tvg-name="TRT Eba TV Lise TR" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eba-tv-lise-tr.png" ,EBA TV Lise
