@@ -63,8 +63,6 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
 #EXTINF:0 tvg-id="Teve2.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" ,Teve 2 HD
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/d584de30-a47d-4d88-a0bd-799768598b34.png" ,blutv Aksiyon
-https://mn-nl.mncdn.com/blutv_aksiyon/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="360.tr" tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png" ,360 HD
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="360.tr" tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png" ,360 TV
@@ -211,10 +209,6 @@ https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:0 tvg-id="Cine5TV.tr" tvg-logo="https://www.cine5tv.com/wp-content/uploads/2022/03/cine5logo.png" ,Cine5 Tv
 https://host.onlineradyotv.net:8081/cine5/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/023ecc93-e253-430b-acd6-e01c77d6461c.png" ,blutv Nostalji
-https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master_31.m3u8
-#EXTINF:0 ,OZEL YAPIM HD
-https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
 #EXTINF:0 ,LiFE TV HD TR
 http://yerelmedya.tv:1935/lifetv/bant1/chunklist.m3u8
 #EXTINF:0 ,Life TV
@@ -223,10 +217,6 @@ https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" ,tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/47301dc8-54a0-4a96-a774-5cdb8db26f98.png" ,blutv Komedi
-https://mn-nl.mncdn.com/blutv_komedi/live_720p2000000kbps/index.m3u8
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/uu/ulusal-kanal-tr.png" ,Uluslararası TV
-https://tv170.ozelip.com:1936/uluslar/uluslar/playlist.m3u8
 #EXTINF:0 tvg-id="SinemaTVAile.tr" tvg-name="Sinema TV Aile TR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aile-tr.png" ,SINEMA TV AILE HD
 http://noxeditor1.com:80/live/berat/berat12/208.ts
 #EXTINF:0 tvg-id="SinemaTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-tv-tr.png" ,SINEMA TV HD
@@ -247,12 +237,8 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1484
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4187
 #EXTINF:0 tvg-id="TheHistoryChannelTurkey.us" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" ,HISTORY CHANNEL HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1637
-#EXTINF:0 tvg-name="ANIMAUX" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animaux_fr.png" ,ANIMAUX HD
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384166
 #EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" ,LOVE NATURE HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95062
-#EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" ,LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-id="NationalGeographicTurkey.us" tvg-name="NatGeo HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" ,NATIONAL GEO HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/266
 #EXTINF:0 tvg-id="NationalGeographicWildTurkey.us" tvg-name="NatGeo Wild HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" ,NATIONAL GEO WILD HD
@@ -265,6 +251,10 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95060
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/3887
 #EXTINF:0 tvg-id="ViasatHistoryNature.tr" tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_nature_hd.png" ,VIASAT NATURE HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95060
+#EXTINF:0 tvg-name="ANIMAUX" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animaux_fr.png" ,ANIMAUX HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384166
+#EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" ,LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:0 ,TURKUVAZ INFO
 http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3685
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ad58bbd-0cf3-4fdb-9af7-16704b101eab.png" ,blutv Belgesel
@@ -320,7 +310,7 @@ https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:0 ,KRAL TV  HD
 http://dygvideo.dygdigital.com/live/hls/kraltv
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/1ed44dfe-415f-4cf5-b58c-70a0d78ded5a.png" ,Mega TV İskenderun
-https://tv170.ozelip.com:1936/megatv/megatv/playlist.m3u8
+https://cincan.tiviplayer.com/player/m3u8/d5e9be8b9a457f589f8e203e5c78b2d5/d5e9be8b9a457f589f8e203e5c78b2d5.m3u8
 #EXTINF:0 ,MAXIMUM TV HD
 http://hd9994.4kradyotv.com:26606/smh61/smh61/playlist.m3u8
 #EXTINF:0 tvg-id="MTVHits.tr" ,MTV Hits
@@ -341,10 +331,6 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="SmartCocuk.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cocuk-smart-tr.png" ,COCUK SMART HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/13138
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" ,blutv Kids
-https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" ,blutv Kids HD
-https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8
 #EXTINF:0 tvg-id="BoomerangTurkey.us" tvg-name="Boomerang HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang-us.svg" ,BOOMERANG HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/8740
 #EXTINF:0 tvg-id="Nickelodeon.tr" tvg-name="Nickelodeon TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_us.png" ,NICKELODEON TURKIYE
@@ -357,6 +343,10 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2419
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/2419
 #EXTINF:0 tvg-id="DisneyChannelTurkey.tr" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg" ,Disney Channel
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/36
+#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" ,blutv Kids
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8a963949-fdb5-4004-8b39-fd327aa88b1c.png" ,blutv Kids HD
+https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8
 #EXTINF:0 ,Cartoons Animated 4U
 https://broadcast.mytvtogo.net/cartoon4utvnetwork/cartoon4utvnetwork/playlist.m3u8
 #EXTINF:0 tvg-id="EBATVLise.tr" tvg-name="TRT Eba TV Lise TR" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eba-tv-lise-tr.png" ,EBA TV Lise
