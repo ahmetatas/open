@@ -217,8 +217,8 @@ https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" ,tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:0 tvg-id="SinemaTVAile.tr" tvg-name="Sinema TV Aile TR" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aile-tr.png" ,SINEMA TV AILE HD
-http://noxeditor1.com:80/live/berat/berat12/208.ts
+#EXTINF:0 tvg-id="BeratTV.tr" tvg-name="Berat TV" ,Berat TV
+http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:0 tvg-id="SinemaTV.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-tv-tr.png" ,SINEMA TV HD
 http://tv.romanija.xyz:8080/22maky/test111/1195
 #EXTINF:0 tvg-id="TRTBelgeselHD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg" ,TRT Belgesel
@@ -238,7 +238,7 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4187
 #EXTINF:0 tvg-id="TheHistoryChannelTurkey.us" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_us.png" ,HISTORY CHANNEL HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1637
 #EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" ,LOVE NATURE HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95062
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="NationalGeographicTurkey.us" tvg-name="NatGeo HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" ,NATIONAL GEO HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/266
 #EXTINF:0 tvg-id="NationalGeographicWildTurkey.us" tvg-name="NatGeo Wild HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" ,NATIONAL GEO WILD HD
@@ -254,7 +254,7 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95060
 #EXTINF:0 tvg-name="ANIMAUX" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animaux_fr.png" ,ANIMAUX HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384166
 #EXTINF:0 tvg-id="LoveNature.ca" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" ,LOVE NATURE 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 ,TURKUVAZ INFO
 http://misket.tv:2020/anka-icin-test/fhoPny6SRC/3685
 #EXTINF:0 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/6ad58bbd-0cf3-4fdb-9af7-16704b101eab.png" ,blutv Belgesel
@@ -456,7 +456,7 @@ https://yayin.santraltr.com/hls/arabeskyeni.m3u8
 #EXTINF:0 ,ART TV AMASYA
 https://59cba4d34b678.streamlock.net/canlitv/arttv/chunklist_w1727396284.m3u8
 #EXTINF:0 ,AS TV
-http://yerelmedya.tv:1935/astv/bant1/playlist.m3u8
+https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
 #EXTINF:0 ,ASKON TV
 https://5be5d840359c6.streamlock.net/askontv/askontv/chunklist_w247491047.m3u8
 #EXTINF:0 ,Atameken Business
