@@ -1279,8 +1279,8 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radyo_d.png" ,Radyo D
 https://radyo.duhnet.tv/ak_dtvh_radyod
-#EXTINF:0 group-title="Radyo" ,Radyo X
-https://sslyayin.radyoyayini.com:7009/default?hash=1618839780
+#EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radyo-7-tr.svg" ,Radyo 7
+https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radyo_viva.png" ,Radyo Viva
 https://radyoviva.radyotvonline.net/radyovivaaac
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/ss/slow-turk-tr.png" ,Slow Türk
