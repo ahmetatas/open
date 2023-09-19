@@ -32,7 +32,7 @@ https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:0 group-title="TV" tvg-id="EuroStar.tr" tvg-name="Eurostar HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/ee/euro_star_tr.png" ,EUROSTAR
 https://mn-nl.mncdn.com/blutv_eurostar2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="TV" tvg-id="TLCTurkey.tr" tvg-name="TLC HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
-https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
+https://dogus.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:0 group-title="TV" tvg-id="TLCTurkey.us" tvg-name="TLC TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
 http://195.155.98.170:5858/play/a0a5
 #EXTINF:0 group-title="TV" tvg-id="TLCTurkey.tr" tvg-name="TLC HD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC HD
@@ -40,7 +40,7 @@ https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 group-title="TV" tvg-id="TLC.tr" tvg-name="TLC TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg" ,TLC
 http://195.155.98.170:5858/play/a0a6
 #EXTINF:0 group-title="TV" tvg-id="DMAXTurkey.tr" tvg-name="DMAX HD" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/dmaxlogo-768x317.jpg.webp" ,DMAX HD
-https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:0 group-title="TV" tvg-id="DMAXTurkey.tr" tvg-name="DMAX HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX HD
 http://195.155.98.170:5858/play/a0a4
 #EXTINF:0 group-title="TV" tvg-id="DMAXTurkey.tr" tvg-name="DMAX Türkiye" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax-us.png" ,DMAX HD
@@ -64,7 +64,7 @@ https://teve2vod.duhnet.tv/S12/HLS_VOD/382843_2e5b/index.m3u8
 #EXTINF:0 group-title="TV" tvg-id="Teve2.tr" tvg-name="Teve 2 HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" ,Teve 2 HD
 https://mn-nl.mncdn.com/blutv_teve22/live_720p2000000kbps/index.m3u8
 #EXTINF:0 group-title="TV" tvg-id="360.tr" tvg-name="360 TV HD TR" tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png" ,360 HD
-http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="TV" tvg-id="360.tr" tvg-name="360 HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png" ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="TV" tvg-id="BEYAZTV.tr" tvg-name="Beyaz TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beyaz_tv_tr.png" ,BEYAZ TV HD
@@ -106,7 +106,7 @@ https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
 #EXTINF:0 group-title="TV" tvg-id="Haberturk.tr" tvg-name="HABERTURK HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haberturk-tr.svg" ,HABERTURK HD
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:0 group-title="TV" tvg-id="2615" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 #EXTINF:0 group-title="TV" tvg-id="2615" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
 #EXTINF:0 group-title="TV" tvg-id="24TV.tr" tvg-name="24 TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
@@ -118,7 +118,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:0 group-title="TV" tvg-id="24.tr" tvg-name="KANAL 24 HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/24-tv-tr.png" ,24 TV HD
 https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
 #EXTINF:0 group-title="TV" tvg-id="UlkeTV.tr" tvg-name="Ulke TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ulke-tv-tr.svg" ,Ülke TV HD
-https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7yb4xm.m3u8?auth=1695315728-2688-x61v3iwa-8ad5cb84bed26d0362604dc88774a280Q8mO--Z_WVSnBdM67IZhIOzSf3SVgVKuOckk1pDHXaWzIfVJOuBl6R9_3fNLS1RrNVYiNVLye2m-eTpRIfxGQShZ3v2wOKCdDt93PRXq7qLYq7x_xgdkOTD-99NwZYgqavOP8SO0PTyw_vXjIHmzeU8xpSyA85IUaju8O7Weu7Fn93Me2G14BnJuRAzq7Nt73WzPKXaKrJVN2BJEu2nXnocGJ7JRBN6EkYZlB47Hv_ouq7AqO2FZvBdCkAsVQyFli5bBNO4FgqTkGJAWFlMZqbIHrsmBzmhuf7DlcA3skVr_L4pwwaCosjHzw9yIsOXwcKerpXdLyppBtbxuhPmezhGq4pEGl8-zt1ORqUIti8VHfeZ4Cht4Hgo9p5DTOVp5gEUReoJxVFXoba2BYvCnr6qBAQq8zGMyNZYSCG8wUbIzLWr0GhZ3My3DMtZWHj1XmQKbgTec_WyEmEmBMfRGhTEratKM39l8yoUIbXXoZ5OWnJWn_E3GJooIQTlpFuzRXJS7fUqLZi1NJGqb2drlnPuvGGCD9ToNAHxsTuWyy4BJXYeeDmnWOdO80Hs_y388TVBjSh_QTSE4b9mtk5xrUZbybdVucJkBowW-HKX3aj-uPOsjSjchNNknJf2AqXw1-fAp3Lbqs0eRm1OgWvxBiyNWDtV-fU1zwCgfupGhkYx8VmDZk2eeLaxU5lC-ObN3EWQ4aNTsaXgD4eByaUfi9VmMc4F_y0frnM39Qt4-fIjARv0GndXI0tub9Y1XVsHjmM7dzIOGRw2NdhF8D7_Qt26FyoUp0i023yzXvDx9Ad2jO3SC8GhJ5x74JVxLI4G4wm7lAzZJ3RqA4NKyComBh-xtt0v__KrtLdWFXnAXB-SY72N4VI96GUmfEHZyVYYtWsL7hXksRFtBYem1BrTlb2M3dX0DLB954GFAGq5hTaM0DZsuuKuv8tR6xU4xOX83ZON1X7MMCEs2civk6_CCpAef3s85d18kHrqj6MU-5JO1x3OsclKpvpDdId7Wom2wk5r-0BGjP7gdb97RIJT6tJCpxOwKWf0J86aWAeDqNlFe4kKQaSBFuzmCQ5d9ZkuXY&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---
 #EXTINF:0 group-title="TV" tvg-id="UlkeTV.tr" tvg-name="Ulke TV TR" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ulke-tv-tr.svg" ,Ulke TV HD
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:0 group-title="TV" tvg-id="BloombergHT.us" tvg-name="Bloomberg HT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-tr.svg" ,Bloomberg HT
