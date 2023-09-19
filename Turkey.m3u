@@ -68,7 +68,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="TV" tvg-id="360.tr" tvg-name="360 HD" tvg-logo="https://www.lyngsat.com/logo/tv/num/360_tv_tr.png" ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="TV" tvg-id="BEYAZTV.tr" tvg-name="Beyaz TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beyaz_tv_tr.png" ,BEYAZ TV HD
-https://mn-nl.mncdn.com/blutv_beyaztv2/live_720p2000000kbps/index.m3u8
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 #EXTINF:0 group-title="TV" tvg-id="BEYAZTV.tr" tvg-name="Beyaz TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beyaz_tv_tr.png" ,BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:0 group-title="TV" tvg-id="BEYAZTV.tr" tvg-name="Beyaz TV HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beyaz_tv_tr.png" ,BEYAZ TV HD
