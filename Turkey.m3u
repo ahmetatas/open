@@ -1265,16 +1265,21 @@ http://stream.yol.tv:9485/medialive/yol.m3u8
 https://stream.yol.tv:9443/medialive/yol.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
 #EXTINF:0 group-title="TV" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b4c2aa7e-bebc-4b8f-b697-393fb7ebcaee.png" ,Yusufeli Belediyesi Web TV
 https://cdn-yusufelibeltrtv.yayin.com.tr/yusufelibeltrtv/ngrp:yusufelibeltrtv/chunklist_w992750607_b1596000.m3u8
+
+#EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat.com/logo/radio/aa/alem_fm_tr.png" ,Alem FM
+https://alemfm.radyotvonline.net/alemfmaac
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/bb/best-fm-tr.png" ,Best FM
 http://officialbestfm.radyotvonline.net/bestfmofficial
+#EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat.com/logo/radio/ff/fenomen-turk-tr.png" ,Fenomen Türk
+https://live.radyofenomen.com/fenomenturk/abr/playlist.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/kk/kral_pop_radyo_tr.png" ,Kral Pop
 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/nn/number1_tr_fm_turk.png" ,Number 1 Türk FM
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8
+https://number1.radyotvonline.net/hls/play/number1_turk_fm.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/pp/power_turk_tr_fm.png" ,Power Türk FM
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radyo_d.png" ,Radyo D
-https://radyo.duhnet.tv/ak_dtvh_radyod
+https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radyo-7-tr.svg" ,Radyo 7
 https://moondigitaledge.radyotvonline.net/radyo7/playlist.m3u8
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/rr/radyo_viva.png" ,Radyo Viva
@@ -1284,8 +1289,8 @@ https://radyo.duhnet.tv/ak_dtvh_slowturk
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/ss/show_radyo_tr.png" ,Show Radyo
 https://showradyo.radyotvonline.net/showradyoaac
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/ss/super-fm-tr.svg" ,Süper FM
-https://25643.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=2cc2c36e-aaa9-44bb-b58b-ebea96776bef
+https://25653.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=3a190261-62e7-42d9-9425-92686a996b34
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/tt/trt-fm-tr.svg" ,TRT FM
-https://nmicenotrt.mediatriple.net/trt_1.aac
+https://trt.radyotvonline.net/trtfm
 #EXTINF:0 group-title="Radyo" tvg-logo="https://www.lyngsat-stream.com/logo/radio/yy/yon-radyo-tr.png" ,Yön Radyo
-https://stream.radyolarburada.com/radio/8020/yonradyo
+https://stream.radyolarburada.com:8020/yonradyo
